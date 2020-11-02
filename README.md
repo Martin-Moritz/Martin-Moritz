@@ -1,8 +1,8 @@
 ### Hi there, I'm Martin 👋
 
-## Engineering student in Data Science and Artificial Intelligence - ESIEE Paris <a href="https://www.esiee.fr/"> <img align="right" width="6%" height="6%" src="img/esiee.png"> </a>
+## Engineering student in Data Science and Artificial Intelligence
 
-- :mortar_board: I’m currently studying at ESIEE Paris
+- :mortar_board: I’m currently studying at [ESIEE Paris](https://www.esiee.fr/)
 - :computer: I’m currently learning Data Science and Artificial Intelligence
 
 ### Connect with me :
