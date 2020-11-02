@@ -8,7 +8,7 @@
 ### Connect with me :
 
 [<img align="left" alt="martin.moritz | LinkedIn" width="26px" src="img/linkedin.png" />][linkedin]
-<a href="mailto:moritzmartin.pro@gmail.com?subject=[GitHub]%20PContact"><img align="left" alt="martin.moritz | Gmail" width="26px" src="img/gmail.png" /></a>
+<a href="mailto:moritzmartin.pro@gmail.com?subject=[GitHub]%20Contact"><img align="left" alt="martin.moritz | Gmail" width="26px" src="img/gmail.png" /></a>
 <br />
 <br />
 
