@@ -31,4 +31,6 @@
 
 <img align="left" alt="martinmoritz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martin-Moritz&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Martin-Moritz.Martin-Moritz)
+
 [linkedin]: https://www.linkedin.com/in/martin-moritz-1944731b1/
