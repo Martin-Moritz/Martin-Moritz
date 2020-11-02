@@ -21,7 +21,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="img/js.png" />][js]
 [<img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][bash]
-[<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/flask.svg" />][flask]
+[<img align="left" alt="Flask" width="26px" src="img/flask.png" />][flask]
 [<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/atom.svg" />][atom]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitLab" width="26px" src="img/gitlab.png" />][gitlab]
