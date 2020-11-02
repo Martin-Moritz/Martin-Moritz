@@ -8,7 +8,7 @@
 ### Connect with me :
 
 [<img align="left" alt="martin.moritz | LinkedIn" width="26px" src="img/linkedin.png" />][linkedin]
-<a href="https://www.esiee.fr/">[<img align="left" alt="martin.moritz | Gmail" width="26px" src="img/gmail.png" />]</a>
+<a href="mailto:emersonpess011108@gmail.com?"><img align="left" alt="martin.moritz | Gmail" width="26px" src="img/gmail.png" /></a>
 <br />
 <br />
 
