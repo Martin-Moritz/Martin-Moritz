@@ -23,7 +23,7 @@
 [<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/flask.svg" />][linkedin]
 [<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/atom.svg" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="img/gitlab.png" />][linkedin]
+[<img align="left" alt="GitLab" width="26px" src="img/gitlab.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="img/github.png" />][linkedin]
 <br />
 <br />
