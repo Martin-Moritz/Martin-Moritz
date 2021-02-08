@@ -1,6 +1,6 @@
 # Hi there, I'm Martin 👋
 
-## Engineering student in Data Science and Artificial Intelligence
+## Engineering Student in Data Science and Artificial Intelligence
 
 - :mortar_board: I’m currently studying at [ESIEE Paris](https://www.esiee.fr/)
 - :computer: I’m currently learning Data Science and Artificial Intelligence
@@ -28,8 +28,8 @@
 ### Engineering Tools
 
 [<img align="left" alt="Docker" width="26px" src="img/docker.svg" />][docker]
-[<img align="left" alt="Flask" width="26px" src="img/flask.svg" />][flask]
 [<img align="left" alt="MySQL" width="40px" src="img/MySQL.svg" />][mysql]
+[<img align="left" alt="Flask" width="26px" src="img/flask.svg" />][flask]
 </br>
 
 ### Others Dev Tools
