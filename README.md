@@ -1,4 +1,4 @@
-## Hi there, I'm Martin 👋
+# Hi there, I'm Martin 👋
 
 ## Engineering student in Data Science and Artificial Intelligence
 
@@ -7,8 +7,8 @@
 
 ### Connect with me :
 
-[<img align="left" alt="martin.moritz | LinkedIn" width="26px" src="img/linkedin.png" />][linkedin]
-<a href="mailto:moritzmartin.pro@gmail.com?subject=[GitHub]%20Contact"><img align="left" alt="martin.moritz | Gmail" width="26px" src="img/gmail.png" /></a>
+[<img align="left" alt="martin.moritz | LinkedIn" width="26px" src="img/linkedin.svg" />][linkedin]
+<a href="mailto:moritzmartin.pro@gmail.com?subject=[GitHub]%20Contact"><img align="left" alt="martin.moritz | Gmail" width="26px" src="img/gmail.svg" /></a>
 <br />
 <br />
 
@@ -22,7 +22,7 @@
 [<img align="left" alt="HTML5" width="26px" src="img/html5.svg" />][html]
 [<img align="left" alt="CSS3" width="26px" src="img/css.svg" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="img/javascript.svg" />][js]
-[<img align="left" alt="BASH" width="26px" src="bash.svg" />][bash]
+[<img align="left" alt="BASH" width="26px" src="img/bash.svg" />][bash]
 
 ## Engineering Tools
 
