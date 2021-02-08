@@ -25,14 +25,14 @@
 [<img align="left" alt="BASH" width="26px" src="img/bash.svg" />][bash]
 </br>
 
-## Engineering Tools
+### Engineering Tools
 
 [<img align="left" alt="Docker" width="26px" src="img/docker.svg" />][docker]
 [<img align="left" alt="Flask" width="26px" src="img/flask.svg" />][flask]
-[<img align="left" alt="MySQL" width="38px" src="img/MySQL.svg" />][mysql]
+[<img align="left" alt="MySQL" width="40px" src="img/MySQL.svg" />][mysql]
 </br>
 
-## Others Dev Tools
+### Others Dev Tools
 
 [<img align="left" alt="Atom" width="26px" src="img/atom.svg" />][atom]
 [<img align="left" alt="Git" width="26px" src="img/git.svg" />][git]
