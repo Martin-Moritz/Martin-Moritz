@@ -23,14 +23,14 @@
 [<img align="left" alt="CSS3" width="26px" src="img/css.svg" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="img/javascript.svg" />][js]
 [<img align="left" alt="BASH" width="26px" src="img/bash.svg" />][bash]
-
+</br>
 
 ## Engineering Tools
 
 [<img align="left" alt="Docker" width="26px" src="img/docker.svg" />][docker]
 [<img align="left" alt="Flask" width="26px" src="img/flask.svg" />][flask]
-[<img align="left" alt="MySQL" width="26px" src="img/MySQL.svg" />][mysql]
-
+[<img align="left" alt="MySQL" width="38px" src="img/MySQL.svg" />][mysql]
+</br>
 
 ## Others Dev Tools
 
@@ -42,6 +42,7 @@
 
 </br>
 </br>
+
 ---
 
 <img align="left" alt="martinmoritz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martin-Moritz&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dark" />
