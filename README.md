@@ -1,4 +1,4 @@
-### Hi there, I'm Martin 👋
+## Hi there, I'm Martin 👋
 
 ## Engineering student in Data Science and Artificial Intelligence
 
@@ -12,22 +12,31 @@
 <br />
 <br />
 
-### Languages and tools
+## Languages and Tools
 
-[<img align="left" alt="Python" width="26px" src="img/python.png" />][python]
+### Languages
+
+[<img align="left" alt="Python" width="26px" src="img/python.svg" />][python]
 [<img align="left" alt="Java" width="26px" src="img/java.png" />][java]
-[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][R]
-[<img align="left" alt="HTML5" width="26px" src="img/html5.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="img/js.png" />][js]
-[<img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][bash]
-[<img align="left" alt="Flask" width="26px" src="img/flask.png" />][flask]
-[<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/atom.svg" />][atom]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitLab" width="26px" src="img/gitlab.png" />][gitlab]
-[<img align="left" alt="GitHub" width="26px" src="img/github.png" />][github]
-<br />
-<br />
+[<img align="left" alt="R" width="26px" src="img/Rlogo.svg" />][R]
+[<img align="left" alt="HTML5" width="26px" src="img/html5.svg" />][html]
+[<img align="left" alt="CSS3" width="26px" src="img/css.svg" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="img/javascript.svg" />][js]
+[<img align="left" alt="BASH" width="26px" src="bash.svg" />][bash]
+
+## Engineering Tools
+
+[<img align="left" alt="Docker" width="26px" src="img/docker.svg" />][docker]
+[<img align="left" alt="Flask" width="26px" src="img/flask.svg" />][flask]
+[<img align="left" alt="MySQL" width="26px" src="img/MySQL.svg" />][mysql]
+
+## Others Dev Tools
+
+[<img align="left" alt="Atom" width="26px" src="img/atom.svg" />][atom]
+[<img align="left" alt="Git" width="26px" src="img/git.svg" />][git]
+[<img align="left" alt="GitLab" width="26px" src="img/gitlab.svg" />][gitlab]
+[<img align="left" alt="GitHub" width="26px" src="img/github.svg" />][github]
+[<img align="left" alt="VisualStudioCode" width="26px" src="img/visual_studio_code.svg" />][visualstudiocode]
 
 ---
 
@@ -46,3 +55,6 @@
 [git]: https://en.wikipedia.org/wiki/Git
 [gitlab]: https://en.wikipedia.org/wiki/GitLab
 [github]: https://en.wikipedia.org/wiki/GitHub
+[docker]: https://en.wikipedia.org/wiki/Docker_(software)
+[mysql]: https://en.wikipedia.org/wiki/MySQL
+[visualstudiocode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
