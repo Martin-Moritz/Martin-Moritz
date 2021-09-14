@@ -47,7 +47,7 @@
 
 <img align="left" alt="martinmoritz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martin-Moritz&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 
-[linkedin]: https://www.linkedin.com/in/martin-moritz-1944731b1/
+[linkedin]: https://www.linkedin.com/in/martin-moritz/
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [java]: https://en.wikipedia.org/wiki/Java
 [R]: https://en.wikipedia.org/wiki/R_(programming_language)
